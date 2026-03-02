@@ -29,3 +29,19 @@ bench --site your-site install-app frappe_erd
 
 - `frappe_erd.api.erd_viewer.get_meta_erd_schema_for_doctypes`
 - `frappe_erd.api.erd_viewer.get_meta_for_doctype`
+
+## Credits and Attribution
+
+This project is forked from [The Commit Company - Commit](https://github.com/The-commit-company/commit).
+
+Credit and thanks to The Commit Company and the original Commit contributors for building and open-sourcing the upstream project. `frappe-erd` was extracted and adapted from that codebase to provide a standalone ERD Viewer focused specifically on schema visualization for the Frappe/ERPNext ecosystem.
+
+The goal of this fork is to keep the ERD functionality lightweight, easier to adopt, and simpler to maintain as an independent app.
+
+## License
+
+This project is released under AGPL-3.0. Please also review and respect the upstream project's license and credits.
+
+## Contributing
+
+Suggestions, feature requests, and pull requests are welcome.
