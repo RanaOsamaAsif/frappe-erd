@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 from frappe_erd import __version__ as version
 
 setup(
-	name="frappe-erd",
+	name="frappe_erd",
 	version=version,
 	description="A focused ERD Viewer app for Frappe",
 	author="frappe-erd contributors",
